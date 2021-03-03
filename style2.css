@@ -55,6 +55,9 @@ a:hover {
     width:70%;
 }
 
+.row2{
+    display:flex;
+}
 .bloc-md {
     padding: 50px;
 }
