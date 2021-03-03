@@ -286,6 +286,7 @@ a:hover {
 #bloc-1-hero h1 {
     font-size: 32px;
     text-align: center;
+    align-items: center;
 }
 
 .navbar {
