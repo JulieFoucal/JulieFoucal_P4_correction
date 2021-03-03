@@ -28,10 +28,8 @@ a:hover {
 }
 
 .bloc {
-    width: 100%;
     clear: both;
     background: 50% 50% no-repeat;
-    padding: 0 50px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -60,6 +58,9 @@ h3{
     height: 35vw;
 }
 
+.row{
+    display:flex;
+}
 .row2{
     display:flex;
 }
