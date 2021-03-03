@@ -57,6 +57,13 @@ h3{
     width: 80%;
     height: 35vw;
 }
+p{
+    width:100%;
+}
+
+.col{
+    width:100%;
+}
 
 .row{
     display:flex;
