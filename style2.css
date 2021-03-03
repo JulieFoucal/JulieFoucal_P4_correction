@@ -51,8 +51,13 @@ a:hover {
     width:100%;
 }
 
-.images{
-    width:70%;
+h3{
+    width: 100%;
+}
+
+.images {
+    width: 70%;
+    height: 35vw;
 }
 
 .row2{
