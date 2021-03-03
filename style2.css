@@ -62,8 +62,12 @@ p{
 }
 .contactez{
     width:100%;
+}
+
+.contacts{
     display: inline-block;
 }
+
 .col{
     width:100%;
 }
