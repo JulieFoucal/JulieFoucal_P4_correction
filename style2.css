@@ -48,6 +48,11 @@ a:hover {
 
 .bloc-lg {
     padding: 100px 50px;
+    width:100%;
+}
+
+.images{
+    width:70%;
 }
 
 .bloc-md {
@@ -665,8 +670,8 @@ a {
     color: #575757 !important;
 }
 
-.container {
-    max-width: 1000px;
+.row1{
+    display:flex;
 }
 
 .hero-bloc-text {
