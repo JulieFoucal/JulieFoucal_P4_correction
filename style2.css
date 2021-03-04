@@ -497,6 +497,13 @@ nav .caret {
     float: right;
 }
 
+.menu li{
+    margin-right: 30px;
+}
+
+.navigation{
+    text-align: left;
+}
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
