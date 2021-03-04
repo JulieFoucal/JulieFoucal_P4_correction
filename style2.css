@@ -72,6 +72,13 @@ p{
     width:100%;
 }
 
+p{
+    width:100%;
+}
+
+.liste{
+    display: flex;
+}
 
 .row2{
     display:flex;
