@@ -76,6 +76,9 @@ p{
     width:100%;
 }
 
+ul{
+    list-style-type: none;
+}
 .liste{
     display: flex;
 }
