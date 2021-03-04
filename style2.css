@@ -46,10 +46,10 @@ a:hover {
 
 .bloc-lg {
     padding: 100px 50px;
-    width:100%;
+    width: 100%;
 }
 
-h3{
+h3 {
     width: 100%;
 }
 
@@ -57,46 +57,50 @@ h3{
     width: 80%;
     height: 35vw;
 }
-p{
-    width:100%;
-}
-.contactez{
-    width:100%;
+
+p {
+    width: 100%;
 }
 
-.contacts{
+.contactez {
+    width: 100%;
+}
+
+.contacts {
     display: inline-block;
 }
 
-.col{
-    width:100%;
+.col {
+    width: 100%;
 }
 
-p{
-    width:100%;
+p {
+    width: 100%;
 }
 
-.social{
+.social {
     display: flex;
     justify-content: space-between;
     margin-bottom: 50px;
     margin-top: 50px;
 }
 
-.listes{
-    width:40%;
+.listes {
+    width: 40%;
 }
 
-ul{
+ul {
     list-style-type: none;
 }
-.liste{
+
+.liste {
     display: flex;
 }
 
-.row2{
-    display:flex;
+.row2 {
+    display: flex;
 }
+
 .bloc-md {
     padding: 50px;
 }
@@ -712,8 +716,8 @@ a {
     color: #575757 !important;
 }
 
-.row1{
-    display:flex;
+.row1 {
+    display: flex;
 }
 
 .hero-bloc-text {
@@ -731,7 +735,7 @@ a {
     text-align: center;
     font-weight: lighter;
     max-width: 520px;
-    margin: auto auto auto auto;
+    margin: auto auto auto;
 }
 
 p {
@@ -759,7 +763,8 @@ p {
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin-bottom: 10px;
+    margin-top: 10px
 }
 
 h2 {
