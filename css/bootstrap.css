@@ -7833,7 +7833,7 @@ button.close {
 }
 
 @-ms-viewport {
-    width: device-width
+    width: -width
 }
 
 .visible-lg,
