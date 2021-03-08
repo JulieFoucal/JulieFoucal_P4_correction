@@ -713,6 +713,18 @@ div.tight-width-whitespace:nth-child(3)>div:nth-child(2)>a:nth-child(1)>img:nth-
 .social {
     margin: auto auto auto auto;
 }
+.twitter {
+    margin: auto auto auto auto;
+}
+
+.facebook {
+    margin: auto auto auto auto;
+}
+
+.instagram {
+    margin: auto auto auto auto;
+}
+
 
 h2 {
     font-size: 22px;
