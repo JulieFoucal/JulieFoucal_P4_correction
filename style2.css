@@ -745,6 +745,11 @@ h4 {
     width: 100%;
 }
 
+.reseauxsociaux{
+    display:flex;
+    justify-content:space-between;
+}
+
 .portfolio-row {
     margin-bottom: 44px;
     margin-top: 50px;
