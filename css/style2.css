@@ -827,19 +827,19 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("Image/dots-bg.png");
+    background-image: url("Images/dots-bg.png");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("Image/lines-h2-bg.png");
+    background-image: url("Images/lines-h2-bg.png");
 }
 
 .bg-banniere {
-    background-image: url("Image/banniere.jpg");
+    background-image: url("Images/banniere.jpg");
 }
 
 .bg-presentation {
-    background-image: url("Image/image-de-presentation.jpeg");
+    background-image: url("Images/image-de-presentation.jpeg");
 }
 
 @media (max-width: 1024px) {
